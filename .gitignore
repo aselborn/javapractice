@@ -1,0 +1,7 @@
+*.log
+.idea/
+.idea/workspace.xml
+target/
+dependency-reduced-pom.xml
+tellstick.conf
+telldus.log.*
